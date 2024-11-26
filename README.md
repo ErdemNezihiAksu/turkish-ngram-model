@@ -1,6 +1,13 @@
 # turkish-ngram-model
 A Turkish language model using n-grams (1-gram, 2-gram, 3-gram) built on the Turkish Wikipedia Dump dataset. Includes character and syllable tokenization, training-test data preparation, and random sentence generation for NLP tasks and language modeling.
 
+## Requirements
+- Libraries: `scikit-learn`
+
+### Installation
+To install the required libraries, run:
+`pip install scikit-learn`
+
 # Important Notes
 - I have use wiki-Turkish-dump dataset from Kaggle to build this porject (you need to to dowland it externally). If you want to use your own dataset, you need to change the **FILE_NAME** parameter in DataPrep.py
 
