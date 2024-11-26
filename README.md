@@ -27,7 +27,7 @@ A Turkish language model using n-grams (1-gram, 2-gram, 3-gram) built on the Tur
 
 ## Generated Random Sentences
 - There are 3 sentences for each photo.
-- Maximum token length (character or syllable count) of a sentence is 50. **<s>** means start of sentence, **</s>** means end of sentence.
+- Maximum token length (character or syllable count) of a sentence is 50. "<s>" means start of sentence, "</s>" means end of sentence.
 
 ![Screenshot 2024-11-27 at 01 34 43](https://github.com/user-attachments/assets/d483534a-c96c-4174-a3c0-2ef01dd0f2d0)
 
